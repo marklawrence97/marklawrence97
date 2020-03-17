@@ -46,7 +46,7 @@ body {
 .image {
     height: 100%;
     width: 75%; 
-    background-image: url(mac.jpg);
+    background-image: url(./images/mac.jpg);
     background-position: center; 
     background-repeat: no-repeat; 
     background-size: cover;
@@ -115,7 +115,7 @@ body {
 }
 
 .me {
-    background-image: url(me.jpg); 
+    background-image: url(./images/me.jpg); 
     width: 125px;
     height: 125px;
     background-size: cover;
